@@ -29,7 +29,7 @@ Although humans engaged in face-to-face conversation simultaneously communicate 
   }
 
   .tg th {
-    background-color: #000000;
+    background-color: #409cff;
     border-color: #9ABAD9;
     border-style: solid;
     border-width: 1px;
@@ -90,17 +90,18 @@ Although humans engaged in face-to-face conversation simultaneously communicate 
   cursor: pointer;
 }
 
-audio {
+/* audio {
     width: 240px;
-}
+} */
 
 /* CSS */
 .button-12 {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 6px 14px;
+  padding: 10px 54px;
   font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+  font-weight: bold;
   border-radius: 6px;
   border: none;
 
@@ -121,6 +122,17 @@ video {
   margin: 1em;
 }
 
+audio {
+  margin: 0.5em;
+}
+
+td img {
+  position: relative;
+  margin: 0 auto;
+  max-width: 650px;
+  padding: 5px;
+  border: 0px;
+}
 </style>
 
 
