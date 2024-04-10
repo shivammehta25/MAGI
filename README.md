@@ -180,7 +180,7 @@ td img {
 
 ## Generated sentences
 
-<a href="synthetic_sentences.csv">Click here to download CSV file</a>
+<a href="synthetic_sentences.csv">Click here to download the CSV file</a>
 
 ## Example stimuli from the evaluation
 
