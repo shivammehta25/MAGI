@@ -178,6 +178,9 @@ td img {
 
 <img src="images/MAGI_overview.png" alt="Overview of MAGI" width="750"/>
 
+## Generated sentences
+
+<a href="synthetic_sentences.csv">Click here to download CSV file</a>
 
 ## Example stimuli from the evaluation
 
