@@ -174,6 +174,7 @@ td img {
 
 </script>
 
+## Overview
 
 <img src="images/MAGI_overview.png" alt="Overview of MAGI" width="750"/>
 
