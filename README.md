@@ -4,6 +4,13 @@ Although humans engaged in face-to-face conversation simultaneously communicate 
 
 
 
+[shivam_profile]: https://www.kth.se/profile/smehta
+[jonas_profile]: https://www.kth.se/profile/beskow
+[simon_profile]: https://www.kth.se/profile/simonal
+[gustav_profile]: https://people.kth.se/~ghe/
+[this_page]: https://shivammehta25.github.io/MAGI
+
+
 <style type="text/css">
     .tg {
     border-collapse: collapse;
@@ -162,6 +169,10 @@ td img {
 
 </script>
 
+
+<img src="images/MAGI_overview.png" alt="Overview of MAGI" width="750"/>
+
+
 ## Example stimuli from the evaluation
 
 ### Speech-only evaluation
@@ -172,7 +183,7 @@ Currently loaded stimulus: <span id="audio-stimuli-from-listening-test-span" sty
 
 <p>Audio player: </p>
   <audio id="audio-stimuli-from-listening-test" controls>
-    <source id="audio-stimuli-from-listening-test-src" src="stimuli/audio-only/MAGI-FT_1" type="audio/wav">
+    <source id="audio-stimuli-from-listening-test-src" src="stimuli/audio-only/MAGI-FT_1.wav" type="audio/wav">
   </audio>
 
 <p> Transcription: </p>
@@ -694,3 +705,6 @@ Currently loaded: <span id="playing-pitch-only" style="font-weight: bold;" > Fac
     </tr>
   </tbody>
 </table>
+
+
+[![MAGI](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://shivammehta25.github.io/MAGI/&count_bg=%23409CFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=MAGI&edge_flat=false)][this_page]
